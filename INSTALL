@@ -1,0 +1,9 @@
+Building Eurocash
+
+See doc/readme-qt.rst for instructions on building Eurocash-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Eurocash.
+
+See doc/build-*.txt for instructions on building eurocashd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Eurocash.
